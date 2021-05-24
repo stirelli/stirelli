@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- I'm a Full stack developer and software architect with 10+ years of experience in application layers, presentation layers, and databases. Proactive and results driven with plenty of experience in both Front End and Back End technologies.
+
+- Top Skills:
+ES6, TypeScript, Angular, RxJS, NGRX, Akita, Redux, SignalR, NodeJS, Express, SQL and NoSQL Databases, OOP, Functional Programming, Functional Reactive Programming, HTML5, CSS, BEM, SASS, Web Components, Webpack, Karma, Jasmine, Jest.
+
 <!--
 **stirelli/stirelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
