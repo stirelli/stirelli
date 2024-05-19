@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- Engineering Manager and Technical Lead with more than 10 years of experience in Software Engineering.
-
 <!--
 **stirelli/stirelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
