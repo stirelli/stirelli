@@ -4,10 +4,10 @@ I work on LLM systems in production — observability, cost efficiency, evaluati
 
 Writing longer posts on production RAG patterns, LLM cost audits, and ingestion-pipeline failure modes. Publication rhythm: irregular, when there's something worth reading.
 
-### Currently open source
+### Selected projects
 
 - [**llamaindex-embedding-churn**](https://github.com/stirelli/llamaindex-embedding-churn) — reproducer for a two-bug interaction in LlamaIndex ingestion pipelines that silently wastes embedding spend under specific conditions
-- [**sebastiantirelli.com**](https://github.com/stirelli/sebastiantirelli.com) — source of my personal site
+- [**ChatGPT LightSession**](https://chromewebstore.google.com/detail/chatgpt-lightsession/fmomjhjnmgpknbabfpojgifokaibeoje) — Chrome extension (60k+ users · 4.8★) that trims long ChatGPT threads client-side, fixing slow/laggy sessions on chatgpt.com
 
 ### Background
 
