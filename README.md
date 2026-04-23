@@ -1,6 +1,6 @@
 ## Sebastian Tirelli
 
-Staff software engineer based in Argentina. 12 years building software, 4 years leading engineering teams. Currently focused on LLM systems in production — observability, cost, and evaluation.
+I work on LLM systems in production — observability, cost efficiency, evaluation. Previously led engineering teams, built products end-to-end, and architected systems at scale. 12 years in the craft.
 
 Writing longer posts on production RAG patterns, LLM cost audits, and ingestion-pipeline failure modes. Publication rhythm: irregular, when there's something worth reading.
 
@@ -16,7 +16,8 @@ Writing longer posts on production RAG patterns, LLM cost audits, and ingestion-
 - Built an AI SDR platform end-to-end as solo founder (LangGraph, async workers, human-in-the-loop)
 - Led architecture and evaluation / benchmarking pipelines for an AI memory and retrieval platform
 - UC Berkeley postgrad certificates — Machine Learning &amp; AI · Technology Leadership
-- Italian 🇮🇹 and Argentine 🇦🇷 citizenship
+
+Based in Argentina. Italian 🇮🇹 + Argentine 🇦🇷 citizenship — available in LATAM, EU, and remote worldwide.
 
 ### Elsewhere
 
