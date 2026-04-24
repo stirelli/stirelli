@@ -1,6 +1,6 @@
 ## Sebastian Tirelli
 
-I work on LLM systems in production. Specifically the part after they ship, where they waste money, where they break, where they surprise.
+I work on LLM systems. Specifically the parts where they waste money, where they break, where they surprise.
 
 Twelve years building software. Four of those leading engineering teams of 35+. Lately I write up what I find: ingestion cost leaks, retrieval reliability gaps, hash bugs that sit quietly in framework defaults. Rhythm is irregular, only when something is worth reading.
 
@@ -13,12 +13,11 @@ Twelve years building software. Four of those leading engineering teams of 35+. 
 ### Background
 
 - 12 years software engineering. 4 of those leading teams of 35+.
-- Two years building production LLM systems.
 - Built an AI SDR platform end-to-end as a solo founder (LangGraph, async workers, human-in-the-loop). Reached production with paying users.
 - Led architecture and evaluation / benchmarking pipelines for an AI memory and retrieval platform.
 - UC Berkeley postgrad certificates in Machine Learning and AI, and Technology Leadership.
 
-Based in Argentina. Italian and Argentine citizenship. Available for senior and principal engineering roles in LATAM, EU, or remote worldwide.
+Based in Argentina. Italian and Argentine citizenship.
 
 ### Elsewhere
 
