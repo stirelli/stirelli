@@ -1,7 +1,5 @@
 ## Sebastian Tirelli
 
-I investigate how production LLM systems fail quietly. Usually in the defaults.
-
 Twelve years building software. Four of those leading engineering teams of 35+. Lately I write up what I find: ingestion cost leaks, retrieval reliability gaps, hash bugs that sit quietly in framework defaults. Rhythm is irregular, only when something is worth reading.
 
 ### Selected projects
