@@ -14,7 +14,7 @@ Twelve years building software. Four of those leading engineering teams of 35+. 
 
 - 12 years software engineering. 4 of those leading teams of 35+.
 - Built an AI SDR platform end-to-end as a solo founder (LangGraph, async workers, human-in-the-loop).
-- Led architecture and evaluation / benchmarking pipelines for an AI memory and retrieval platform.
+- Worked on a hybrid retrieval stack (vector + graph + keyword) and built its benchmarking pipeline, scored against LongMemEval and LoCoMo.
 - UC Berkeley postgrad certificates in Machine Learning and AI, and Technology Leadership.
 
 Based in Argentina. Italian and Argentine citizenship.
