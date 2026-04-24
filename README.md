@@ -15,8 +15,6 @@ Twelve years building software. Four of those leading engineering teams of 35+. 
 - Worked on a hybrid retrieval stack (vector + graph + keyword) and built its benchmarking pipeline, scored against LongMemEval and LoCoMo.
 - UC Berkeley postgrad certificates in Machine Learning and AI, and Technology Leadership.
 
-Based in Argentina. Italian and Argentine citizenship.
-
 ### Elsewhere
 
 [sebastiantirelli.com](https://sebastiantirelli.com) · [LinkedIn](https://www.linkedin.com/in/stirelli) · [X / Twitter](https://x.com/stirelli) · tirelli@gmail.com
